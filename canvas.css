@@ -1,6 +1,24 @@
+@font-face {
+  font-family: 'Lazer84';
+  src: url('Lazer84.ttf') format('truetype');
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(#ff3d3d, #001fff);
+}
 canvas {
   background-image: url('assets/bg.jpg');
   background-size: cover;
   margin: 10px;
   outline: 3px solid #42c4ff;
+}
+
+h1 {
+  font-family: 'Lazer84';
+  font-size: 72px;
+  margin-bottom: 20px;
 }
