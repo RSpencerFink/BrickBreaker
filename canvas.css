@@ -3,6 +3,11 @@
   src: url('Lazer84.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'ArcadeClassic';
+  src: url('assets/ARCADECLASSIC.TTF') format('truetype');
+}
+
 body{
   display: flex;
   flex-direction: column;
