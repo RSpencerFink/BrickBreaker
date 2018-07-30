@@ -13,7 +13,11 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(#ff3d3d, #001fff);
+  background-image: url('assets/BG1.png');
+}
+
+img {
+  width: 80%;
 }
 canvas {
   background-image: url('assets/bg.jpg');
