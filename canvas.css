@@ -8,6 +8,16 @@
   src: url('assets/ARCADECLASSIC.TTF') format('truetype');
 }
 
+.links{
+  font-family: 'Lazer84';
+  margin-bottom: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  justify-content: space-around;
+}
+
 body{
   display: flex;
   flex-direction: column;
