@@ -42,3 +42,9 @@ h1 {
   font-size: 72px;
   margin-bottom: 20px;
 }
+
+button {
+  font-family: 'Lazer84';
+  font-size: 30px;
+  margin: 10px 0 10px 0;
+}
