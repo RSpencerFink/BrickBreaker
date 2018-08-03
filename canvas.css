@@ -30,6 +30,7 @@ body{
 img {
   width: 80%;
 }
+
 canvas {
   background-image: url('assets/bg.jpg');
   background-size: cover;
